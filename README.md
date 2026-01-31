@@ -20,8 +20,11 @@ The goal is to extract meaningful insights that can help businesses improve fest
 ## 📂 Project Structure
 Diwali-Sales-Analysis/
 │
+
 ├── data_analysis_diwaliii.ipynb
+
 ├── README.md
+
 └── dataset.csv (if applicable)
 
 ---
@@ -50,3 +53,4 @@ Diwali-Sales-Analysis/
 
 ## ▶️ How to Run the Project
 1. Clone the repository
+
